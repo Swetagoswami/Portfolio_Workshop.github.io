@@ -1,0 +1,38 @@
+body{
+    padding: 10px;
+    margin: 10px;
+    color: black;
+
+}
+nav{
+    display: inline;
+    justify-content: space-between;
+    color: black;
+
+}
+img{
+    width:20%;
+}
+div{
+
+    justify-self: center;
+    
+}
+ul{
+    display: flex;
+    gap:10px;
+}
+p{
+    font-size: 150%;
+}
+h1{
+    font-size: 150%;
+    color: black;
+}
+li{
+    color: white;
+    display: flex;
+    gap: 10px;
+
+}
+
